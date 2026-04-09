@@ -1,0 +1,462 @@
+sku,mpid,veeqo_qty,last_sent_qty,update_needed,status,message,last_run_time
+VM-11-1003,177264,,,no,not_found_in_veeqo,SKU not found in Veeqo for warehouse GP-WH,2026-04-09 17:06:40 UTC
+VM-11-1003X2,180261,,,no,not_found_in_veeqo,SKU not found in Veeqo for warehouse GP-WH,2026-04-09 17:06:40 UTC
+VM-11-11049,180259,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VM-11-11049X2,180260,,,no,not_found_in_veeqo,SKU not found in Veeqo for warehouse GP-WH,2026-04-09 17:06:40 UTC
+VM-112-0291,180258,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VM-112-0291X4,180252,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VM-112-0292,180254,25,25,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VM-112-0292X4,180251,4,4,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VM-112-0293,180256,32,32,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VM-112-0293X4,180255,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VM-112-0294,180257,16,16,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VM-112-0294X4,180253,2,2,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VM-11-50033-BL,177256,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VM-11-50033-BLX3,179991,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VM-11-50033-PK,177232,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VM-11-50033-PKX3,179992,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VM-11-50033-PR,177231,4,4,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VM-11-50033-PRX3,179993,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMSSAT20,189049,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMSSAT20X2,180263,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VM-12-0011B,179981,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VM-12-0011Y,179982,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMSCDP10,183656,73,73,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VM12PGS4X4X200,179985,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VM12PGS4X4X200X10,179987,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VM130101-L,183758,34,34,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VM130101-M,183760,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VM130101-S,183759,14,14,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VM-14-001,183761,,,no,not_found_in_veeqo,SKU not found in Veeqo for warehouse GP-WH,2026-04-09 17:06:40 UTC
+VM-14-002,183762,,,no,not_found_in_veeqo,SKU not found in Veeqo for warehouse GP-WH,2026-04-09 17:06:40 UTC
+VM1MLSLSWNX1X100,177226,3547,3547,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VM1MLSLSWNX1X100X2,179999,96,96,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VM1SN23GX1X100,177227,993,993,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VM1SN23GX1X100X2,180000,333,333,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VM1SN23GX1X100X20,177228,,,no,not_found_in_veeqo,SKU not found in Veeqo for warehouse GP-WH,2026-04-09 17:06:40 UTC
+VM1SN25GX1X100,177229,997,997,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VM1SN25GX1X100X2,180005,333,333,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VM1SN25GX1X100X20,177230,,,no,not_found_in_veeqo,SKU not found in Veeqo for warehouse GP-WH,2026-04-09 17:06:40 UTC
+VM4PGS2X2X200,183646,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VM4PGS4X4X200,183647,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VM5IN1PPTB26,193504,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VM8PGS2X2X200,179988,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VM8PGS2X2X200X25,179990,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VM8PGS2X2X200X5,179989,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VM8PGS3X3X200,180008,127,127,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VM8PGS3X3X200X25,180015,15,15,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VM9501MSK20,176626,998,998,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMAATBB01,189004,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMAATBP01,189005,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMAHVS50,183674,365,365,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMAPHSTK100BR72,183763,23,23,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VMAPP20200,177326,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMAPP25200,177327,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMAPP30200,177328,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMAPP35200,177329,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMAPP40200,177237,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMAPP45200,177330,83,83,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMAPP50200,177238,120,120,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMAPP55200,177331,197,197,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMAPP60200,177239,34,34,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMAPP70200,177240,217,217,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMAPP80200,177241,184,184,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMAPPMIX200,177233,50,50,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VMAPTKB15X12,189007,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMAPTKB15X12,189007,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMAPTKB15X12X5,180335,3,3,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMAPTKBR12X12,189009,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMAPTKBR12X12,189009,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMAPTKBR12X12X5,180336,2,2,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VMAPTKR15X12,183764,14,14,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMAPTNB20X12,189010,0,0,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VMAPTNB20X12X5,180337,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMAPTNB20X12,189010,0,0,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VMAPTNR20X12,189011,92,92,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VMAPTNR20X12X5,180338,6,6,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMAPTNR20X12,189011,92,92,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VMASPB25,189006,746,746,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMASPG25,176765,492,492,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMASPW25,176766,485,485,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMAWSM250,177236,,,no,not_found_in_veeqo,SKU not found in Veeqo for warehouse GP-WH,2026-04-09 17:06:40 UTC
+VMAWSPMC250,177235,45,45,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMAWSSSMC250,189013,362,362,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMAWSW250,183767,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMBFB12K4X6,177301,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMBFB12K4X6X8,177309,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMBFBK12K4X6,183637,1,1,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VMBFC12K4X6,183640,5,5,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VMBFG12K4X6,183641,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMBFP12K4X6,183638,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMBFPR12K4X6,183639,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMBIBHLD250,189008,219,219,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMBW2CH15,183768,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMC24CSS500,183680,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMC2724HC225,183676,48,48,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VMC2980FC125,183677,49,49,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMC802MSS500,180333,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMC802MSS500X3,180334,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMC82CSS500,180331,33,33,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMC82CSS500X3,180332,7,7,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMCAPB35GB50,183681,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMCAPB35GB50X20,193508,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMCAPB35GB50X3,193509,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMCAPNWB100,177266,258,258,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VMCAPNWBK100,193510,0,0,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VMCAPNWP100,193511,158,158,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VMCAPNWWH100,193512,262,262,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VMCATBB01,189015,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMCATBP01,189017,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMCATBY01,189018,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMCC19GB100,183661,0,0,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VMCCI454,177323,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMCHVS50,183675,508,508,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMCP5ZB1K,176748,41,41,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VMCP5ZG1K,176747,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMCP5ZP1K,176749,71,71,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VMCPEAPN10,177268,1491,1491,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VMCPEAPN100,177269,24,24,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMCRM400X20B,177315,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMCRM50X20B,177314,0,0,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VMCS50X12CC,177299,23,23,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VMCST1003X10,183657,642,642,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VMCST1006X10,183658,407,407,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VMDMIRG45X100,183593,47,47,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMDMIRP45X100,183594,38,38,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VMDMIRPP45X100,183597,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMDMIRSB45X100,183587,127,127,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VMDMIRSG45X100,183591,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMDMIRSP45X100,183588,175,175,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VMDMIRSPP45X100,183592,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMDMIRSW45X100,183589,97,97,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMDMIRSY45X100,183590,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMDMIRW45X100,183595,33,33,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VMDMIRY45X100,183596,74,74,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VMEC25GB100,183665,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMELLSCMSKBK50,176623,2311,2311,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VMELMSCMSKBK50,176622,915,915,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VMFBDSP01,177302,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMFELSMSKB50SL3,176627,873,873,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VMFTLB100,183667,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMFTMY100,183668,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMFTSG100,183669,28,28,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VMGGA01PC,189014,273,273,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VMGGB01PC,176768,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMGGB0201B,189016,134,134,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VMGGB0201W,189019,74,74,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VMGLBLN100,176574,989,989,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMGLBLN100X10,176579,999,999,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VMGLBMN100,176573,2496,2496,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMGLBMN100X10,176578,,,no,not_found_in_veeqo,SKU not found in Veeqo for warehouse GP-WH,2026-04-09 17:06:40 UTC
+VMGLBSN100,176571,978,978,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMGLBSN100X10,176576,996,996,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VMGLBXLN100,176575,973,973,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMGLBXLN100X10,176580,998,998,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMGLBKLN100,183605,189,189,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMGLBKMN100,183606,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMGLBKSN100,183607,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMGLBKXLN100,183608,195,195,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VMGLBKXSN100,183609,196,196,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMGLBLN100,176574,989,989,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMGLBLN100X10,176579,999,999,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VMGLBLN10X200,177317,,,no,not_found_in_veeqo,SKU not found in Veeqo for warehouse GP-WH,2026-04-09 17:06:40 UTC
+VMGLBLN200,177316,99,99,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMGLBMN100,176573,2496,2496,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMGLBMN100X10,176578,,,no,not_found_in_veeqo,SKU not found in Veeqo for warehouse GP-WH,2026-04-09 17:06:40 UTC
+VMGLBSN100,176571,978,978,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMGLBSN100X10,176576,996,996,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VMGLBXLN100,176575,973,973,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMGLBXLN100X10,176580,998,998,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMGLBXLN10X200,177319,,,no,not_found_in_veeqo,SKU not found in Veeqo for warehouse GP-WH,2026-04-09 17:06:40 UTC
+VMGLBXLN200,177318,,,no,not_found_in_veeqo,SKU not found in Veeqo for warehouse GP-WH,2026-04-09 17:06:40 UTC
+VMGLBXSN100,176572,936,936,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMGLBXSN100X10,176577,99,99,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMGLPLN100,183614,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMGLPMN100,183615,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMGLPR3LN100,183628,138,138,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMGLPR3MN100,183629,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMGLPR3SN100,183630,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMGLPR3XLN100,183631,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMGLPR3XSN100,183632,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMGLPSN100,183616,228,228,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VMGLPXLN100,183617,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMGLPXSN100,183613,221,221,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMGLSAP12,176769,33,33,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMGP04B3060,189020,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMGP04BK4060,189021,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMGP04G3560,189026,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMGP04MX154060,189467,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMGP04R2560,189025,22,22,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VMGP04W1560,189023,29,29,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VMGP04Y2060,189024,17,17,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VMHAZWF02,189468,308,308,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMHRC10X13X500B,183678,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMHRC10X13X500P,183679,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMIBTMLF35,183682,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMIBTMLH35,177304,0,0,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VMIBTMLH35X3,180329,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMIBTMPS35,183684,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMIBTMPSL35,183683,20,20,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VMIBTMSF35,177311,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMIBTMSF35X3,180328,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMIGBXL25G10,183670,257,257,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VMIGBXLPEPP43L210,183671,911,911,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VMIGYXL25G10,183672,,,no,not_found_in_veeqo,SKU not found in Veeqo for warehouse GP-WH,2026-04-09 17:06:40 UTC
+VMIGYXLPEPP43L210,183673,,,no,not_found_in_veeqo,SKU not found in Veeqo for warehouse GP-WH,2026-04-09 17:06:40 UTC
+VMIMG1P1-2:1,177310,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMIMG1P4-10:1,177254,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMIMTLL12,189031,250,250,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMIMTLU12,189030,53,53,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMIMTML12,189029,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMIMTMU12,189032,187,187,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VMIMTSL12,189034,225,225,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VMIMTSU12,189033,277,277,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMIMTUL-LR12,189022,156,156,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMIMTUR-LL12,189027,270,270,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VMIVKT50PC,183685,375,375,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VMIVKT50PCX2,193505,91,91,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VMIVKT50PCX4,193506,67,67,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VMKFSS1021-6,176804,109,109,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMKFSS1025-6,176810,178,178,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMKFSS1521-6,176805,211,211,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMKFSS1525-6,176811,47,47,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMKFSS15-40-25,176803,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMKFSS2021-6,176812,163,163,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMKFSS2025-6,176813,103,103,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMKFSS2521-6,176814,255,255,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMKFSS2525-6,176822,176,176,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMKFSS3021-6,176815,270,270,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMKFSS3025-6,176823,172,172,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMKFSS3521-6,176816,176,176,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMKFSS3525-6,176824,118,118,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMKFSS3531-6,176830,290,290,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMKFSS4021-6,176806,200,200,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMKFSS4025-6,176802,170,170,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMKFSS4521-6,176817,187,187,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMKFSS4525-6,176825,168,168,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMKFSS5021-6,176818,1000,1000,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMKFSS5025-6,176826,999,999,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMKFSS5521-6,176819,1000,1000,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMKFSS5525-6,176831,194,194,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMKFSS5531-6,176827,202,202,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMKFSS6021-6,176820,1009,1009,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMKFSS6025-6,176828,200,200,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMKFSS6031-6,176832,192,192,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMKFSS7021-6,176821,1000,1000,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMKFSS7025-6,176829,200,200,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMKFSS7031-6,176833,207,207,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMKFSS8021-6,176807,184,184,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMKFSS8025-6,176808,208,208,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMKFSS8031-6,176809,210,210,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMKSX250,176635,0,0,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VMKSX250X2,193507,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMLB18GP100,183662,13,13,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VMLCBKL40G10,180051,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMLCBKL40G10X5,193540,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMLCBKM40G10,180050,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMLCBKM40G10X5,193539,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMLCBKS40G10,180053,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMLCBKS40G10X5,193538,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMLCBKXL40G10,180052,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMLCBKXL40G10X5,193541,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMLCBL45G10,177274,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMLCBL45G10X5,177275,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMLCBM45G10,177287,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMLCBM45G10X5,177288,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMLCBS45G10,177297,140,140,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VMLCBS45G10X5,177286,7,7,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VMLCBXL45G10,177276,5,5,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VMLCBXL45G10X5,177243,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMLCPL45G10,177277,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMLCPL45G10X5,177293,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMLCPM45G10,177289,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMLCPM45G10X5,177292,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMLCPRL45G10,193542,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMLCPRL45G10X5,193547,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMLCPRM45G10,193544,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMLCPRM45G10X5,193546,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMLCPRS45G10,193543,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMLCPRS45G10X5,193545,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMLCPRXL45G10,193549,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMLCPRXL45G10X5,193550,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMLCPS45G10,177298,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMLCPS45G10X5,177291,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMLCPXL45G10,193548,2,2,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMLCPXL45G10X5,177294,3,3,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMLJBL45G10X5,193554,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMLJBL45G10,177270,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMLJBM45G10X5,193553,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMLJBM45G10,177283,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMLJBS45G10,193551,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMLJBS45G10X5,193552,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMLJBS45G10,193551,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMLJBXL45G10X5,193555,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMLJBXL45G10,177250,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMLJPL45G10X5,193557,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMLJPL45G10,177273,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMLJPM45G10X5,193556,2,2,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VMLJPM45G10,177285,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMLJPRL45G10,193562,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMLJPRL45G10X5,193566,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMLJPRM45G10,193561,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMLJPRM45G10X5,193565,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMLJPRS45G10,193560,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMLJPRS45G10X5,193564,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMLJPRXL45G10,193563,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMLJPRXL45G10X5,193567,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMLJPS45G10X5,193558,6,6,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMLJPS45G10,177295,15,15,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMLJPXL45G10X5,193559,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMLJPXL45G10,177252,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMMABLRG400,177333,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMMABLRG400X2,180040,,,no,not_found_in_veeqo,SKU not found in Veeqo for warehouse GP-WH,2026-04-09 17:06:40 UTC
+VMMAGRFN400,177332,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMMAGRFN400X2,180041,,,no,not_found_in_veeqo,SKU not found in Veeqo for warehouse GP-WH,2026-04-09 17:06:40 UTC
+VMMAPPUF400,177306,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMMAPPUF400X2,180042,,,no,not_found_in_veeqo,SKU not found in Veeqo for warehouse GP-WH,2026-04-09 17:06:40 UTC
+VMMAWTCY400,183666,195,195,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VMMB4DSP,177513,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMMB4DSPX2,180054,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMMBBL1,183602,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMMBBM1,183604,113,113,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMMBBS1,183603,48,48,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMMP7X12X50,176754,6,6,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VMMP7X7X50,176753,8,8,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMMSB01,183598,96,96,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMMSKIL3B50,189028,999,999,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VMMSKIL3B50,189028,999,999,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VMMSKIL3P50,176624,993,993,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VMMSKIL3P50X40,180038,86,86,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VMMSKSGB50L2,176621,658,658,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VMMSP01,183599,23,23,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMMSW01,183600,84,84,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMMSY01,183601,87,87,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMMT42Y1:1X50,183769,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMMT5P1:1X50,183772,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMMT6.5TB1:1X50,183773,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMMT7005PR50,189035,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMMT76BO10:1X50,183774,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMMT76BW1:1X50,183775,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMMTBB1:1RS50,183777,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMMTBW1:1CM50,183778,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMMTBW1:1CR50,183779,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMMTBW1:1EN50,183780,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMMTRPX50,183781,57,57,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VMOWX2500,183782,84,84,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VMPAHRDP100,176770,,,no,not_found_in_veeqo,SKU not found in Veeqo for warehouse GP-WH,2026-04-09 17:06:40 UTC
+VMPASFTB100,176771,806,806,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMPATAPB100,176764,2,2,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VMPCH225X4200,177245,0,0,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VMPCH225X4200X5,193568,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMPCH225X4200X50,193573,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMPCH275X9200,177257,0,0,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VMPCH275X9200X20,193575,2,2,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMPCH275X9200X5,193569,3,3,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMPCH35X10200,177247,84,84,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VMPCH35X10200X20,193576,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMPCH35X10200X5,193570,3,3,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VMPCH35X525X200,177246,0,0,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VMPCH35X525X200X40,193574,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMPCH35X525X200X5,193571,5,5,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMPCH525X10200,177248,37,37,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VMPCH525X10200X10,193577,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMPCH525X10200X5,193572,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMPHN27GL100,177259,184,184,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VMPHN27GL100X2,180045,,,no,not_found_in_veeqo,SKU not found in Veeqo for warehouse GP-WH,2026-04-09 17:06:40 UTC
+VMPHN27GL100X50,177260,,,no,not_found_in_veeqo,SKU not found in Veeqo for warehouse GP-WH,2026-04-09 17:06:40 UTC
+VMPHN30GS100,177278,21,21,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VMPHN30GS100X2,180043,,,no,not_found_in_veeqo,SKU not found in Veeqo for warehouse GP-WH,2026-04-09 17:06:40 UTC
+VMPHN30GS100X50,177261,,,no,not_found_in_veeqo,SKU not found in Veeqo for warehouse GP-WH,2026-04-09 17:06:40 UTC
+VMPHN30GXS100,177262,161,161,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VMPIOIY100,183686,280,280,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VMPPT1KB-B,176618,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMPPT1KB-BK,183583,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMPPT1KB-G,183582,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMPPT1KB-L,176619,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMPPT1KB-P,176620,0,0,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VMPPT1KB-W,193591,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMPPT1KB-Y,193592,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMPPTBMX100,189036,292,292,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VMPPTBMX100X2,193579,110,110,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VMRFSAF10,176767,91,91,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMRFSAF10X2,180046,84,84,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VMSC19GBK100,193578,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMSC19GBK50,189038,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMSC19GY100,183687,15,15,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VMSC19GY50,189037,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMSC20GY100,183663,141,141,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMSC22GB100,183664,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMSCWTM10,183786,53,53,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VMSDBIB100B7,193580,1427,1427,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VMSDBIB100BK7,193586,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMSDBIB100G7,193582,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMSDBIB100P7,193581,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMSDBIB100PR7,193583,0,0,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VMSDBIB125B7,193588,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMSDBIB125BK7,193605,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMSDBIB125G7,193603,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMSDBIB125P7,193602,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMSDBIB125PR7,193604,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMSDBIB500B,176616,,,no,not_found_in_veeqo,SKU not found in Veeqo for warehouse GP-WH,2026-04-09 17:06:40 UTC
+VMSDBIB500B7,193607,0,0,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VMSDBIB500BK7,183584,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMSDBIB500G7,183585,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMSDBIB500P,176617,,,no,not_found_in_veeqo,SKU not found in Veeqo for warehouse GP-WH,2026-04-09 17:06:40 UTC
+VMSDBIB500P7,193606,0,0,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VMSDBIB500PR7,183586,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMSDBIB50B7,189039,42,42,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMSDBIB50BK7,189045,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMSDBIB50G7,189043,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMSDBIB50P7,189042,44,44,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMSDBIB50PR7,189044,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMSDMKB25,189046,60,60,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VMSDMKB25B,176628,,,no,not_found_in_veeqo,SKU not found in Veeqo for warehouse GP-WH,2026-04-09 17:06:40 UTC
+VMSEMXC100,176773,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMSEMXC100X20,180047,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMSEMXC100X3,180048,,,no,not_found_in_veeqo,SKU not found in Veeqo for warehouse GP-WH,2026-04-09 17:06:40 UTC
+VMSGAFR,176772,,,no,not_found_in_veeqo,SKU not found in Veeqo for warehouse GP-WH,2026-04-09 17:06:40 UTC
+VMSGAFR1,189047,217,217,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VMSHCA50,189048,286,286,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VMSHOPP100A,177308,184,184,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMSHWB100,177307,1465,1465,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VMSMMSBSTR1212X100,183633,96,96,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VMSMMSBSTR1212X100X5,193598,69,69,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VMSMMSBSTR1515X100,183634,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMSMMSBSTR1515X100X5,193599,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMSMMSBSTR2020X100,183635,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMSMMSBSTR2020X100X5,193600,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMSMMSBSTR2424X100,183636,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMSMMSBSTR2424X100X5,193601,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMSS212X10X500,177305,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMSSAT20,189049,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMSSB10X100,176756,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMSSB11X100,176757,5,5,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMSSB12BX100,183688,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMSSB12SCX10,189050,94,94,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMSSB12X100,176758,35,35,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VMSSB15CX100,183689,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMSSB15SCX10,189051,150,150,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMSSB15X100,176759,18,18,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMSSB20X100,176760,19,19,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMSSB21X100,176761,6,6,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMSSB22X100,176762,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMSSB23X100,176763,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMTYCV50014,176629,145,145,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMVBMS45CPX50,189053,49,49,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMVBMS45SOX50,189055,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMVBMS6CGX50,189052,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMVBMS6SBX50,189054,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMVHVEMC100,183654,115,115,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VMVHVEW100,176755,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMWDBL152014,177503,109,109,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMWDGN151514,177496,125,125,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMWDNTNGDPSR100,189057,528,528,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMWDOG131513,177501,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMWDPK152016,177507,874,874,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMWDWT151514,177495,149,149,yes,success,Updated successfully in Net32,2026-04-09 17:06:40 UTC
+VMWDYL151516,177505,311,311,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMWPW01,189056,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMXB00X100,183783,690,690,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMXB01X100,183784,117,117,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMXB02X100,183785,75,75,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
+VMXRPS01,189040,0,0,no,unchanged,"Quantity unchanged, skipped",2026-04-09 17:06:40 UTC
