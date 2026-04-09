@@ -1,0 +1,11 @@
+{
+  "warehouse_used": "GP-WH",
+  "quantity_type": "physical_stock_level",
+  "total_mapping_rows": 461,
+  "found_in_veeqo": 433,
+  "not_found_in_veeqo": 28,
+  "unchanged": 327,
+  "success": 106,
+  "failed": 0,
+  "unknown": 0
+}

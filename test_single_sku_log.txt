@@ -1,0 +1,41 @@
+[2026-04-09 16:51:13 UTC] ========== SINGLE SKU TEST STARTED ==========
+[2026-04-09 16:51:13 UTC] Test SKU: VMPCH225X4200
+[2026-04-09 16:51:13 UTC] Warehouse used: GP-WH
+[2026-04-09 16:51:13 UTC] Quantity type used: physical_stock_level (on-hand)
+[2026-04-09 16:51:13 UTC] Mapping file MPID found: 177245
+[2026-04-09 16:51:13 UTC] Fetching Veeqo page 1
+[2026-04-09 16:51:25 UTC] Fetching Veeqo page 2
+[2026-04-09 16:51:36 UTC] Fetching Veeqo page 3
+[2026-04-09 16:52:05 UTC] Veeqo SKU found: VMPCH225X4200
+[2026-04-09 16:52:05 UTC] Product title: 1000PCs COPERTINA Self Seal Sterilization Pouches with Dual Indicators for Dental Tools by VASTMED | Autoclave Sterilizer Bags Pouch for Tools
+[2026-04-09 16:52:05 UTC] GP-WH on-hand qty: 0
+[2026-04-09 16:52:05 UTC] DRY RUN payload => [{"mpid": 177245, "inventory": 0}]
+[2026-04-09 16:52:05 UTC] Net32 result: {'status': 'dry_run', 'payload': [{'mpid': 177245, 'inventory': 0}]}
+[2026-04-09 16:52:05 UTC] ========== SINGLE SKU TEST FINISHED ==========
+[2026-04-09 16:52:43 UTC] ========== SINGLE SKU TEST STARTED ==========
+[2026-04-09 16:52:43 UTC] Test SKU: VMPCH225X4200
+[2026-04-09 16:52:43 UTC] Warehouse used: GP-WH
+[2026-04-09 16:52:43 UTC] Quantity type used: physical_stock_level (on-hand)
+[2026-04-09 16:52:43 UTC] Mapping file MPID found: 177245
+[2026-04-09 16:52:43 UTC] Fetching Veeqo page 1
+[2026-04-09 16:52:47 UTC] Fetching Veeqo page 2
+[2026-04-09 16:52:51 UTC] Fetching Veeqo page 3
+[2026-04-09 16:52:56 UTC] Veeqo SKU found: VMPCH225X4200
+[2026-04-09 16:52:56 UTC] Product title: 1000PCs COPERTINA Self Seal Sterilization Pouches with Dual Indicators for Dental Tools by VASTMED | Autoclave Sterilizer Bags Pouch for Tools
+[2026-04-09 16:52:56 UTC] GP-WH on-hand qty: 0
+[2026-04-09 16:52:57 UTC] Net32 result: {'statusCode': 200, 'payload': {'failureList': [], 'totalSubmitted': 1, 'totalSucceeded': 1}}
+[2026-04-09 16:52:57 UTC] ========== SINGLE SKU TEST FINISHED ==========
+[2026-04-09 16:57:42 UTC] ========== SINGLE SKU TEST STARTED ==========
+[2026-04-09 16:57:42 UTC] Test SKU: VMMSKIL3P50
+[2026-04-09 16:57:42 UTC] Warehouse used: GP-WH
+[2026-04-09 16:57:42 UTC] Quantity type used: physical_stock_level (on-hand)
+[2026-04-09 16:57:42 UTC] Mapping file MPID found: 176624
+[2026-04-09 16:57:42 UTC] Fetching Veeqo page 1
+[2026-04-09 16:57:46 UTC] Fetching Veeqo page 2
+[2026-04-09 16:57:50 UTC] Fetching Veeqo page 3
+[2026-04-09 16:58:00 UTC] Fetching Veeqo page 4
+[2026-04-09 16:59:00 UTC] Veeqo SKU found: VMMSKIL3P50
+[2026-04-09 16:59:00 UTC] Product title: VASTMED 2000PCs Dental Medical Grade Tigris Level 3 Earloop Mask 4.0g 3Ply Breathable Mask for Indoor & Outdoor Use
+[2026-04-09 16:59:00 UTC] GP-WH on-hand qty: 993
+[2026-04-09 16:59:01 UTC] Net32 result: {'statusCode': 200, 'payload': {'failureList': [], 'totalSubmitted': 1, 'totalSucceeded': 1}}
+[2026-04-09 16:59:01 UTC] ========== SINGLE SKU TEST FINISHED ==========
